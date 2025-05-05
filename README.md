@@ -1,6 +1,6 @@
 # Automatic Human Activity Recognition System Using Clustering
 
-This repository contains the code and dataset for an automatic human activity recognition system using sensor data. The objective of this study is to design and evaluate a system for automatic recognition of human activity with the minimum number of devices and computational resources available. you can read the full description and results of the project in the `Cluster Human Activities.pdf` file. 
+This repository contains the code and dataset for an automatic human activity recognition system using sensor data. The objective of this study is to design and evaluate a system for automatic recognition of human activity with the minimum number of devices and computational resources available.
 
 ## Dataset
 
